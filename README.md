@@ -8,8 +8,8 @@ http://jmcauley.ucsd.edu/data/amazon/
 We need to quickly come up what kind of questions we want to address based on this dataset.
 
 ## Methods to address the question
-   ...Measurement of outcome
-   ...Features that can be used to calculate/predict outcome
-   ...Model
-   ...Evaluate model
-   ...Visualization 
+   ...1. Measurement of outcome
+   ...2. Features that can be used to calculate/predict outcome
+   ...3. Model
+   ...4. Evaluate model
+   ...5. Visualization 
