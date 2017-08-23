@@ -1,0 +1,16 @@
+
+Question 1:
+Find out the market position of category for new merchants
+-  Time series analysis of various product sales
+-  Find the trend and correlation with product review, QA, rating, etc.Predict
+-  rank possible best selling products for the merchant
+
+Note: 
+Amazon provide a best seller info for an item useful for the customer 
+but not useful for the merchants looking to introduce new items of the similar category.
+
+Our objective is to provide information useful for a merchant. 
+This will give more information as to the various products 
+Analytical history over time, feed back and features of the product which may be used 
+to predict marketability of similar or different items in the same category.
+
